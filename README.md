@@ -2,6 +2,9 @@
 
 ## 🚀 Overview
 **ResumeRank AI** is an AI-powered resume screening tool that analyzes resumes against job descriptions and provides a **match score**, **content quality analysis**, and **style evaluation**. It helps job seekers and recruiters instantly assess resume effectiveness using **Google Gemini AI**.
+![ResumeRank AI Screenshot](assets/1.png)
+![ResumeRank AI Screenshot](assets/2.png)
+![ResumeRank AI Screenshot](assets/3.png)
 
 ---
 
