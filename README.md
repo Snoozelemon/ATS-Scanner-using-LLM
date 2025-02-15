@@ -35,22 +35,18 @@
 git clone https://github.com/your-repo/resumerank-ai.git
 cd resumerank-ai
 ```
-### 2️⃣ Create a Virtual Environment
+### 2️⃣ Create a Virtual Environment (Using Anaconda)
 ```sh
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+conda create -p venv python==3.10 -y
+conda activate venv/
 ```
 ### 3️⃣ Install Dependencies
 ```sh
-Copy
-Edit
 pip install -r requirements.txt
 ```
 ### 4️⃣ Set Up API Key
 Create a .env file and add your Google Gemini API key:
-
 ```sh
-
 GEMINI_API_KEY=your-google-gemini-api-key
 ```
 ### 5️⃣ Run the App
